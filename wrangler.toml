@@ -10,4 +10,4 @@ run_worker_first = ["/api/*"]
 [[d1_databases]]
 binding = "DB"
 database_name = "just-us"
-database_id = "PASTE_D1_ID_HERE"
+database_id = "97b0c467-95e6-4e21-b26e-b3786435b9e1"
